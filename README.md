@@ -13,3 +13,7 @@ https://ru.wikipedia.org/wiki/%D0%A3%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D1%8B%D0%B9_%
 ### Fox facts:
 
 https://thebiggreenk.com/fox-facts/
+
+### Live preview:
+
+https://chjuge.github.io/landing-page-odin/
